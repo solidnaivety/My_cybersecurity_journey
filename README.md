@@ -12,7 +12,7 @@ _______________________________________________________
 - Work with OWASP ASVS
 
 ________________________________________________________
-**Practive on TrhHackMe**
+**Practice on TryHackMe**
 - CompTIA Pentest+ Learning Path
 - JR Penetration Tester (in the Certificates folder)
 
