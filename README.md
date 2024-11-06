@@ -12,6 +12,13 @@ _______________________________________________________
 - Work with OWASP ASVS
 
 ________________________________________________________
+**March - May 2024 - Google Cybersecurity**
+hands-on, practice-based assessments and are designed to prepare them for entry-level
+roles in cybersecurity. They are competent in beginner-level Python,
+Linux, SQL, Security Information and Event Management (SIEM) tools,
+and Intrusion Detection Systems (IDS). 
+
+________________________________________________________
 **Practice on TryHackMe**
 - CompTIA Pentest+ Learning Path
 - JR Penetration Tester (in the Certificates folder)
